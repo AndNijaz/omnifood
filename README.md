@@ -49,18 +49,6 @@ Explore the landing page to understand the layout and responsiveness:
 
 ---
 
-## Screenshots
-
-### Desktop View
-![Desktop View](img/desktop-view.png)
-
-### Mobile View
-![Mobile View](img/mobile-view.png)
-
-> *Screenshots are stored in the `/img` directory.*
-
----
-
 ## Project Status
 This project is **complete** as part of a web development course.
 
@@ -69,11 +57,6 @@ This project is **complete** as part of a web development course.
 ## Acknowledgements
 - **Course Instructor**: Jonas Schmedtmann
 - **Inspiration**: "Build Responsive Real-World Websites with HTML and CSS"
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
