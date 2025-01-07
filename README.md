@@ -1,6 +1,6 @@
 # Omnifood: Responsive Food Delivery Website
 
-[Live Demo](https://omnifooodn.netlify.app/)
+Ypu can see website here: [Live Demo](https://omnifooodn.netlify.app/)
 
 ## Project Description
 Omnifood is a mock-up of a food delivery service providing healthy and delicious meals. This project showcases modern web design and development practices, created as part of Jonas Schmedtmann's "Build Responsive Real-World Websites with HTML and CSS" course.
